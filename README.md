@@ -29,6 +29,7 @@ Fizz Buzz
 ```
 
 # Solution
+A sample solution is given in fb.py. The script can be run as follows:
 ```python
 for number in range(1,101): 
     if ( ((number % 3) == 0) and ((number % 5) == 0) ): # if both of these statements are true print fizz buzz
